@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-docx
+pdfplumber
+openai 
+pandas
+openpyxl
+PyPDF2
+pypdf
