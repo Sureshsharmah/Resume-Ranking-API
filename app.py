@@ -21,7 +21,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Set OpenAI API key
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "enter_open_api_key"  # replace with your open api key
 openai.api_key = OPENAI_API_KEY
 
 def extract_text_from_pdf(pdf_bytes):
